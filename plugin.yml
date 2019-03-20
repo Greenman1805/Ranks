@@ -1,0 +1,12 @@
+name: Ranks
+main: de.greenman1805.ranks.Main
+version: 1.0
+author: Greenman1805
+commands:
+  ranks:
+    description: Ranks
+    aliases: [rank, rang]
+    
+permissions:
+  ranks.exempt:
+    default: false
